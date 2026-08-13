@@ -1,8 +1,9 @@
-# Everything is ignored EXCEPT the audit-anchors folder and README.md.
+# Everything is ignored EXCEPT the audit-anchors folder and the doc files.
 # This guarantees no source code, config, or credentials can ever be
 # pushed here accidentally.
 *
 !audit-anchors/
 !audit-anchors/**
 !README.md
+!SECURITY.md
 !.gitignore
