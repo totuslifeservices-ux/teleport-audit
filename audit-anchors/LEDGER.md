@@ -23,3 +23,4 @@ ots verify audit-anchors/<date>.ots
 | 2026-08-13 | `590ed8b05af92ad2cfc7f2a1c56e554eae339e42cf3068adf5b8168512f83b99` | 2026-08-13T16:40:51.211Z | `2026-08-13.ots` | `ots verify audit-anchors/2026-08-13.ots` |
 | 2026-08-14 | `590ed8b05af92ad2cfc7f2a1c56e554eae339e42cf3068adf5b8168512f83b99` | 2026-08-13T16:40:51.211Z | `2026-08-14.ots` | `ots verify audit-anchors/2026-08-14.ots` |
 | 2026-08-15 | `caf5851ae29e725c6a59b7f5e5f3460f7bc7ef80d5f2b5fdb5da70cef182c30b` | 2026-08-15T15:50:13.065Z | `2026-08-15.ots` | `ots verify audit-anchors/2026-08-15.ots` |
+| 2026-08-16 | `0f50a8e469fbb4924dce1085ef2ae805040138a45f91d207ed97d8a6f6a85393` | 2026-08-15T19:34:45.090Z | `2026-08-16.ots` | `ots verify audit-anchors/2026-08-16.ots` |
