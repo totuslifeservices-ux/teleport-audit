@@ -1,4 +1,4 @@
-# TelePort — Audit Chain Blockchain Anchors
+# TelePortUs — Audit Chain Blockchain Anchors
 
 Every day, the current **audit-chain head hash** is anchored to the Bitcoin
 blockchain via [OpenTimestamps](https://opentimestamps.org) (free community
@@ -30,3 +30,4 @@ ots verify audit-anchors/<date>.ots
 | 2026-08-21 | `9ab414507eb6031002f76e0c2d0643af95df85e01f221ddacab30fc25fc6a81d` | 2026-08-21T09:48:39.603Z | `2026-08-21.ots` | `ots verify audit-anchors/2026-08-21.ots` |
 | 2026-08-22 | `3c2a127a01f1dd30da015017873b729486916bbb09c492a0ebe8fd4e4ed5c885` | 2026-08-22T12:21:00.545Z | `2026-08-22.ots` | `ots verify audit-anchors/2026-08-22.ots` |
 | 2026-08-23 | `ff0493eb22c518738155140595c6584c3a4650a380747ec5348c9f23f1f39ace` | 2026-08-23T08:39:33.937Z | `2026-08-23.ots` | `ots verify audit-anchors/2026-08-23.ots` |
+| 2026-08-24 | `7ab7bda58fcdde03c84137f89872e083d260d98f1a1211cad7b7e1fa34935b8a` | 2026-08-24T15:32:27.066Z | `2026-08-24.ots` | `ots verify audit-anchors/2026-08-24.ots` |
