@@ -66,3 +66,6 @@ ots verify audit-anchors/<date>.ots
 | 2026-09-29 | `f4eb2b5b9c18f369ef36cf8bca3e70fae63fc483a0e27c6398043a93a51cb0ab` | 2026-09-25T17:00:46.585Z | `2026-09-29.ots` | `ots verify audit-anchors/2026-09-29.ots` |
 | 2026-09-30 | `7f7d503302d83a4df523eb20e50b7ea40672e131683990e010f7760b3d18ad62` | 2026-09-30T07:51:23.826Z | `2026-09-30.ots` | `ots verify audit-anchors/2026-09-30.ots` |
 | 2026-10-01 | `7f7d503302d83a4df523eb20e50b7ea40672e131683990e010f7760b3d18ad62` | 2026-09-30T07:51:23.826Z | `2026-10-01.ots` | `ots verify audit-anchors/2026-10-01.ots` |
+| 2026-10-02 | `ae562f46d68cfae5da6dac9192f1bc97143ef56c118b64a1c027f553088d500e` | 2026-10-02T05:22:55.821Z | `2026-10-02.ots` | `ots verify audit-anchors/2026-10-02.ots` |
+| 2026-10-03 | `ae562f46d68cfae5da6dac9192f1bc97143ef56c118b64a1c027f553088d500e` | 2026-10-02T05:22:55.821Z | `2026-10-03.ots` | `ots verify audit-anchors/2026-10-03.ots` |
+| 2026-10-04 | `ae562f46d68cfae5da6dac9192f1bc97143ef56c118b64a1c027f553088d500e` | 2026-10-02T05:22:55.821Z | `2026-10-04.ots` | `ots verify audit-anchors/2026-10-04.ots` |
