@@ -94,3 +94,4 @@ ots verify audit-anchors/<date>.ots
 | 2026-10-30 | `d4dc26de98df14e1e6a8655be05aa1b3019308267b1bb498836636ed8212bc97` | 2026-10-30T14:42:07.967Z | `2026-10-30.ots` | `ots verify audit-anchors/2026-10-30.ots` |
 | 2026-10-31 | `f6a6b6fabf2467acc8368a36726b41afeecfa6b3a906b033457b38a40fb27ae4` | 2026-10-31T02:45:14.020Z | `2026-10-31.ots` | `ots verify audit-anchors/2026-10-31.ots` |
 | 2026-11-01 | `f6a6b6fabf2467acc8368a36726b41afeecfa6b3a906b033457b38a40fb27ae4` | 2026-10-31T02:45:14.020Z | `2026-11-01.ots` | `ots verify audit-anchors/2026-11-01.ots` |
+| 2026-11-02 | `a1ea70e74540f429a369dfd0c68a807369da55912936a813c8472fd47a3780f0` | 2026-11-01T18:01:05.203Z | `2026-11-02.ots` | `ots verify audit-anchors/2026-11-02.ots` |
